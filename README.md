@@ -1,2 +1,5 @@
-# EWHA-CHAIN.github.io-web
-developing a web site for EWHA-CAHIN
+# a Project creating a Web Page of EWHA-CHAIN
+
+### developer
+  - front-end : 
+  - designer : 

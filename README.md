@@ -4,3 +4,11 @@
   - front-end : 
   - designer : 
 
+### requirtments
+  - ewhachain-app으로 이동
+    
+  - npm install react-router-dom
+  - npm isntall react-bootstrap
+  
+  - npm start
+

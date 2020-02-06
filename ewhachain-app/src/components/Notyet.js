@@ -1,6 +1,6 @@
 import React from 'react';
 import { Jumbotron, Button } from 'react-bootstrap';
-import logo from './logo.png';
+import logo from '../images/logo.png';
 function Notyet() {
     return(
         <Jumbotron>

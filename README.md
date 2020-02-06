@@ -4,6 +4,9 @@
   - front-end : 
   - designer : 
 
+## installation
+npm install --save react-lines-ellipsis
+
 ### requirtments
   - ewhachain-app으로 이동
     

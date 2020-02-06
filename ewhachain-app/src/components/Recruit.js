@@ -1,10 +1,10 @@
 import React from 'react';
 import { Jumbotron, Container, Row, Col, Image, Button } from 'react-bootstrap';
-import sample2 from './sample2.png';
+import sample2 from '../images/sample2.png';
 function Recruit() {
     return(
         <Jumbotron>
-        <h1>n기 모집</h1>
+        <h1>5기 모집</h1>
         <div>
             이화체인 n기 뽑아요~~<br></br>
             지원기간 언제부터 언제까지랍니다~~

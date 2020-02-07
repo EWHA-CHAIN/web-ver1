@@ -1,11 +1,12 @@
 import React from 'react';
 import { Jumbotron, Container, Row, Col, Image, Button } from 'react-bootstrap';
-function Portfolio() {
+function PortfolioHeader() {
   return(
     <Jumbotron>
-    <div>왜</div>
+      <h1> 포트폴리오랍니당</h1>
+      <div>저희 뭔가 하긴 했어요~~</div>
     </Jumbotron>
   );
 }
 
-export default Portfolio;
+export default PortfolioHeader;

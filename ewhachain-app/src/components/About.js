@@ -16,7 +16,7 @@ function About() {
         </div>
         <div>
             <br></br>
-            <Button variant="dark">more</Button>
+            <Button variant="dark" href="/portfolio">more</Button>
             <p>버튼 클릭하면 portfolio로 가는식 뭐 이런걸루</p>
         </div>
         </Jumbotron>

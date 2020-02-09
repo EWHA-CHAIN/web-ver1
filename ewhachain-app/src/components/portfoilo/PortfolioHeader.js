@@ -1,5 +1,5 @@
 import React from 'react';
-import { Jumbotron, Container, Row, Col, Image, Button } from 'react-bootstrap';
+import { Jumbotron } from 'react-bootstrap';
 function PortfolioHeader() {
   return(
     <Jumbotron>

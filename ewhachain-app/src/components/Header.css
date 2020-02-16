@@ -1,13 +1,19 @@
+.header{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
 .bg-light {
     background-color: #f8f9fa!important;
 }
 
 .header_brand{
-    font-size: x-large;
+    font-size: xx-large;
+    color: rgb(0,70,42);
 }
 
 .header_menu{
-    font-size: large;
+    font-size: x-large;
     position: relative;
     left: 40px;
     right: 0px;

@@ -5,6 +5,7 @@ import Recruiting from "./routes/Recruiting";
 import Alum from "./routes/Alum";
 import Portfoilo from "./routes/Portfolio";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Route path="/Alumni" component={Alum} />
         <Route path="/recruiting" component={Recruiting} />
       </BrowserRouter>
+      <Footer />
     </div>
   );
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5821b753836e9662f2e18b586e6204c1",
+    "revision": "7b7c1310baeb909c9672191f66ebbdc6",
     "url": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "d9535e52828c6cdb5e42",
+    "revision": "296924c24b78d6988ca9",
     "url": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/css/main.5bbca01c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/2.dd04b940.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9535e52828c6cdb5e42",
-    "url": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/main.fd12b8d5.chunk.js"
+    "revision": "296924c24b78d6988ca9",
+    "url": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/main.1152a8c4.chunk.js"
   },
   {
     "revision": "dc36806a6e624bde4951",

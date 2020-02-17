@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/github.io/precache-manifest.f2e3963b0dfa87b85fcd233008d55ee4.js"
+  "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/precache-manifest.8ae2bffe22d987d3f073b9ce52dfe423.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/EWHA-CHAIN/EWHA-CHAIN.github.io-web/github.io/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/EWHA-CHAIN/EWHA-CHAIN.github.io-web/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });

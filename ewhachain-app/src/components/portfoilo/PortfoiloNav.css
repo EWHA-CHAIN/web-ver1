@@ -1,0 +1,13 @@
+.flex-column {
+    font-size: x-large;
+    color: black;
+    padding: 50px;
+    margin-left: 50px;
+    float: left;
+    
+}
+.flex-column_menu{
+    margin-bottom: 20px;
+    color: black;
+    
+}

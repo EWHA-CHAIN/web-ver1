@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:300,400,700,800,900&display=swap&subset=latin-ext');
+
+.Alumni_Class{
+  text-align: left;
+  margin-top: 30px;
+}
+
+h1 {
+  color: rgb(0,70,42);
+  font-weight: 900;
+}
+
+.Form_card {
+  justify-content: space-around;
+}
+
+.Form{
+  margin-top: 30px;
+}
+
+.Alumni_txt{
+  font-size: 14px;
+}
+
+.Alumni_footer{
+  color: gray;
+  text-align: left;
+  font-size: 12px;
+}
+
+.Alumni_Form{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.AlumniButton{
+  text-align: left;
+}
+
+button{
+  position: left;
+  border:0px;
+  margin-right: 30px;
+}
+
+#empty{
+  opacity: 0;
+}

@@ -23,8 +23,8 @@ function Alumni_4th() {
       <CardDeck>
         <Form name='고은지' emails='kosu7071@naver.com' major='휴먼기계바이오공학부 18학번' aImg={unknown} active="4기 활동"></Form>
         <Form name='유현선' emails='amtrd97@gmail.com' major='사이버보안전공 17학번' aImg={unknown} active="4기 활동"></Form>
-        <Form ></Form>
-        <Form ></Form>
+        <Card className="form" id="empty"/>
+        <Card className="form" id="empty"/>
       </CardDeck>
     </div>
   );

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/css/main.c3fa8e66.chunk.css",
+    "main.js": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/main.e8bc35da.chunk.js",
+    "main.js.map": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/main.e8bc35da.chunk.js.map",
+    "runtime-main.js": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/runtime-main.c404fd0d.js",
+    "runtime-main.js.map": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/runtime-main.c404fd0d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.dd04b940.chunk.js": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/2.dd04b940.chunk.js",
+    "static/js/2.dd04b940.chunk.js.map": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/2.dd04b940.chunk.js.map",
+    "index.html": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/index.html",
+    "precache-manifest.a8660b6d59e145b7e47c65291b98b77f.js": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/precache-manifest.a8660b6d59e145b7e47c65291b98b77f.js",
+    "service-worker.js": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.c3fa8e66.chunk.css.map": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/css/main.c3fa8e66.chunk.css.map",
+    "static/js/2.dd04b940.chunk.js.LICENSE.txt": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/js/2.dd04b940.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/media/logo.92dac330.png",
+    "static/media/sample.png": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/media/sample.afc4f381.png",
+    "static/media/unknown.png": "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/static/media/unknown.b0eb86a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c404fd0d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.dd04b940.chunk.js",
+    "static/css/main.c3fa8e66.chunk.css",
+    "static/js/main.e8bc35da.chunk.js"
+  ]
+}

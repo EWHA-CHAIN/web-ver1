@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/precache-manifest.a8660b6d59e145b7e47c65291b98b77f.js"
+  "/EWHA-CHAIN/EWHA-CHAIN.github.io-web/precache-manifest.e035b52c4d48b10ca02db132bd4ea23a.js"
 );
 
 self.addEventListener('message', (event) => {

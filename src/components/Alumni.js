@@ -6,7 +6,7 @@ import './Alumni/Alumni.css';
 
 function Display(props) {
   const alumniClicked = props.alumniNum;
-  if (alumniClicked ===3) {
+  if (alumniClicked === 3) {
     return <Three />;
   }
   return <Four/>;
@@ -46,8 +46,8 @@ class Alumni extends React.Component {
       <Jumbotron className="Alumni_Form">
         <h1>ALUMNI of EWHA-CHAIN</h1>
         <div className="AlumniButton">
-        <button onClick={this.handleClick4}>4기</button>
-        <button onClick={this.handleClick3}>3기</button>
+        <button className="alumni_button" onClick={this.handleClick4}>4기</button>
+        <button className="alumni_button" onClick={this.handleClick3}>3기</button>
         </div>
         <Display alumniNum={this.state.alumniClicked} />
       </Jumbotron>

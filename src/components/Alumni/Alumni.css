@@ -45,3 +45,15 @@ button{
 #empty{
   opacity: 0;
 }
+
+.alumni_button{
+  width: 40px;
+  height: 30px;
+  margin-right: 10px;
+  background-color: transparent;
+  border-bottom: solid 3px transparent;
+}
+
+.alumni_button:hover{
+  border-bottom: solid 3px green;
+}

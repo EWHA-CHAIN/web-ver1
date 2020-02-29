@@ -1,18 +1,19 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap'
 import './Header.css';
-import logo from '../images/logo_smaller.png'
+import logo from '../images/logo.svg'
 
 function Header() {
     return (
       <Navbar className="header">
         <Navbar.Brand>
+          <a href="/">
           <img
             className=""
             src={logo}
             alt="logo"
-          />{'  '}
-          <span className="header_brand"><b>EWHA-CHAIN</b></span>
+          />{' '}
+          </a>
         </Navbar.Brand>
         <Nav className="header_menu">
           <Nav.Link href="/">Home</Nav.Link>

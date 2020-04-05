@@ -1,6 +1,10 @@
 import React from 'react';
 import { Jumbotron, Container } from 'react-bootstrap';
 import "./PortfoiloBody.css";
+import pf_01 from "../../images/change/pf01.png"
+import pf_02 from "../../images/change/pf02.png"
+import pf_03 from "../../images/change/pf03.png"
+import pf_main from "../../images/change/pf04.png"
 
 class PortfoiloBody_4 extends React.Component {
    render() {
@@ -9,10 +13,40 @@ class PortfoiloBody_4 extends React.Component {
                 <Jumbotron >
                     <div className="portfoiloBody_title">
                         <h1>4기</h1>
+                        <br></br>
+                        <br></br>
                     </div>
                     <div className="portfoiloBody_text">
-                        4기는 이런거 했어요~~ 메뉴 누르면 넘어가는거 test중<br></br>
-                        뭐 이렇게 좁아졌냐
+                    <br></br><br></br>
+                    <img 
+                            src={pf_main} 
+                            alt="pfMain"
+                            width="1100"
+
+                    ></img>
+                    <br></br><br></br><br></br>
+                    <img 
+                            src={pf_01} 
+                            alt="pf01"
+                            width="1100"
+
+                    ></img>
+                    <br></br><br></br><br></br>
+                    <img 
+                            src={pf_02} 
+                            alt="pf02"
+                            width="1100"
+
+                    ></img>
+                    <br></br><br></br><br></br>
+                    <img 
+                            src={pf_03} 
+                            alt="pf03"
+                            width="1100"
+
+                    ></img>
+                    <br></br><br></br>
+                    <br></br><br></br>
                     </div>
                 </Jumbotron>
                 </div>

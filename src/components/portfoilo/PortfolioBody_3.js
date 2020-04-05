@@ -1,6 +1,7 @@
 import React from 'react';
 import { Jumbotron, Container } from 'react-bootstrap';
 import "./PortfoiloBody.css";
+import image from "../../images/logo.png"
 
 class PortfoiloBody_3 extends React.Component {
    render() {
@@ -11,8 +12,12 @@ class PortfoiloBody_3 extends React.Component {
                         <h1>3기</h1>
                     </div>
                     <div className="portfoiloBody_text">
-                        3기는 이런거 했어요~~ 메뉴 누르면 넘어가는거 test중<br></br>
-                        뭐 이렇게 좁아졌냐
+                    <img 
+                            src={image} 
+                            alt="sample"
+                            width="500px"
+                            height="500px"
+                        ></img>
                     </div>
                 </Jumbotron>
                 </div>

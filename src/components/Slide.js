@@ -1,6 +1,8 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel'
 import image from '../images/sample.png'
+import main_01 from '../images/change/main01.png'
+
 
 function Slide() {
   return (
@@ -8,7 +10,7 @@ function Slide() {
       <Carousel.Item>
         <img
           className="image.first"
-          src={image}
+          src={main_01}
           alt="First slide"
         />
         <Carousel.Caption>

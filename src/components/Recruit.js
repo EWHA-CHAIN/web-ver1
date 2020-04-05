@@ -2,25 +2,25 @@ import React from 'react';
 import { Jumbotron, Container, Row, Col, Image, Button } from 'react-bootstrap';
 import './Recruit.css';
 import logo from "../images/logo.png"
+import recruit from "../images/change/recruit.png"
 
 function Recruit() {
     return(
         <Jumbotron className="recruit">
             <div className="recruit_title">
-                <h1>5기 모집</h1>
+                <h1>5기 리쿠르팅</h1>
             </div>
             <div className="recruit_content">
+            <br></br><br></br>
             <img 
-                src={logo} 
-                alt="sample"
-                width="500px"
-                height="500px"
-                ></img><br></br>
-                지원기간 : mm월 dd일 - mm월 dd일<br></br>
-                폼 링크 : www.xxxx.xxxxx
+                src={recruit} 
+                alt="recruit"
+            ></img>
+            <br></br><br></br>
             </div>
             <div className="recruit_button">
                 <Button variant="dark" href="/">main</Button>
+                <br></br><br></br>
             </div>
         </Jumbotron>
     );

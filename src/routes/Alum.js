@@ -1,14 +1,11 @@
 import React from 'react';
-import Alumni from "../components/Alumni";
+import Auth from "../components/Auth";
+
 
 class Alum extends React.Component {
-    render(){
-        return(
-            <div>
-                <Alumni />
-            </div>
 
-        );
+    render() {
+        return (<Auth />);
     }
 }
 
